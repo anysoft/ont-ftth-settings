@@ -1,0 +1,1 @@
+/root/apps/shellinbox/shellinaboxd -u root --css=/root/apps/shellinbox/white-on-black.css -b
